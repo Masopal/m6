@@ -1,0 +1,23 @@
+Pertemuan 1:
+Pada praktikum pertama, saya mempelajari tentang konsep dasar Thread dan Multi-Thread dalam Python. Thread merupakan unit eksekusi terkecil dalam suatu proses. Umumnya, sebuah program memiliki setidaknya satu thread utama (main thread) yang menjalankan logika utama aplikasi.
+Pada sesi ini, saya tidak mengalami kesulitan dalam menyelesaikan seluruh tugas praktikum karena mendapatkan bimbingan yang jelas dan terarah dari para kakak pembimbing.
+
+Pertemuan 2:
+Di pertemuan kedua, materi yang dipelajari adalah mengenai dasar-dasar API dan format data JSON. API (Application Programming Interface) adalah antarmuka yang memungkinkan dua sistem atau aplikasi berbeda untuk saling berkomunikasi serta bertukar data.
+Saya dapat menyelesaikan semua tugas praktikum tanpa hambatan, seperti halnya pada pertemuan pertama, berkat penjelasan dan arahan yang sangat baik dari kakak-kakak pembimbing.
+
+Pertemuan 3:
+Pada praktikum ketiga, saya dikenalkan dengan Framework dalam Python. Framework adalah kerangka kerja yang menyediakan struktur dan alat bantu yang memudahkan pengembang dalam membangun aplikasi secara efisien dan terorganisir.
+Sama seperti pertemuan sebelumnya, saya tidak mengalami kendala dalam mengerjakan tugas karena mendapatkan penjelasan yang sistematis dan mudah dipahami dari kakak pembimbing.
+
+Pertemuan 4:
+Materi praktikum keempat berfokus pada pengenalan dan pembuatan aplikasi menggunakan Flask. Flask merupakan web framework ringan berbasis Python, yang dibangun di atas Werkzeug (toolkit WSGI) dan Jinja2 (template engine).
+Saya berhasil menyelesaikan tugas praktikum ini dengan lancar, karena penjelasan dari para pembimbing sangat membantu dan mudah dipahami.
+
+Pertemuan 5:
+Pada pertemuan kelima, saya mempelajari cara membangun API Endpoint menggunakan Flask. API pada Python memungkinkan perangkat lunak untuk saling berkomunikasi melalui mekanisme request dan response.
+Seluruh tugas pada sesi ini dapat saya kerjakan dengan baik, sama seperti pada pertemuan-pertemuan sebelumnya, berkat bimbingan yang jelas dari kakak-kakak yang mendampingi.
+
+Pertemuan 6:
+Di praktikum keenam, saya mempelajari tentang Pemrograman Visual berbasis Python menggunakan PyQt. PyQt merupakan pustaka Python untuk framework aplikasi Qt yang mendukung berbagai platform seperti Windows, macOS, Linux, iOS, dan Android.
+Tugas-tugas pada praktikum ini dapat saya selesaikan dengan baik tanpa hambatan, karena pendampingan yang diberikan oleh para kakak pembimbing sangat membantu dalam memahami materi.
