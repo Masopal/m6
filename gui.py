@@ -10,8 +10,8 @@ from models import (
 )
 
 class MahasiswaApp(QWidget):
-    def _init_(self):
-        super()._init_()
+    def __init__(self):
+        super().__init__()
         self.setWindowTitle("Manajemen Mahasiswa")
         self.setGeometry(100, 100, 400, 400)
 
